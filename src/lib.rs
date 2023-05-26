@@ -1,11 +1,11 @@
 // region: auto_md_to_doc_comments include README.md A //!
 //! # varweeks_millis
 //!
-//! **2021 new date time units and formats: varweeks and millis**  
-//! ***version: 1.0.15 date: 2023-05-26 author: [bestia.dev](https://bestia.dev) repository: [Github](https://github.com/bestia-dev/varweeks_millis)***  
+//! **2023 new date time units and formats: varweeks and millis**  
+//! ***version: 1.0.19 date: 2023-05-26 author: [bestia.dev](https://bestia.dev) repository: [Github](https://github.com/bestia-dev/varweeks_millis)***  
 //!
 //! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-181-green.svg)](https://github.com/bestia-dev/varweeks_millis/)
-//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-233-blue.svg)](https://github.com/bestia-dev/varweeks_millis/)
+//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-236-blue.svg)](https://github.com/bestia-dev/varweeks_millis/)
 //! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-29-purple.svg)](https://github.com/bestia-dev/varweeks_millis/)
 //! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-0-yellow.svg)](https://github.com/bestia-dev/varweeks_millis/)
 //! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-100-orange.svg)](https://github.com/bestia-dev/varweeks_millis/)
@@ -44,7 +44,7 @@
 //! `7d` (seven-dee) is the new name for Sunday.  
 //! Actually the new names are somehow similar to the old names.  
 //! The varweek_date format is global for every language and looks exactly like this:  
-//! `2021c 52v 2d`  
+//! `2023c 52v 2d`  
 //! The year must have 4 digits from 1000c to 9999c. The unit `c` stands for CE - common era. Space.  
 //! The varweek must have 2 digits from 01v to 53v. The unit `v` stands for varweek. Space.  
 //! The day must have 1 digit from 1d to 7d. The unit `d` stands for day. End.  

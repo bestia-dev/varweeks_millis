@@ -1,10 +1,10 @@
 [package]
 name = "varweeks_millis"
-version = "1.0.15"
+version = "1.0.19"
 authors = ["bestia.dev"]
 homepage = "https://bestia.dev"
-edition = "2018"
-description = "2021 new date time units and formats: varweeks and millis"
+edition = "2021"
+description = "2023 new date time units and formats: varweeks and millis"
 repository = "https://github.com/bestia-dev/varweeks_millis"
 readme = "README.md"
 license = "MIT"

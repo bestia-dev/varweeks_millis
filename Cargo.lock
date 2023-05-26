@@ -214,7 +214,7 @@ checksum = "7e33648dd74328e622c7be51f3b40a303c63f93e6fa5f08778b6203a4c25c20f"
 
 [[package]]
 name = "varweeks_millis"
-version = "1.0.15"
+version = "1.0.19"
 dependencies = [
  "chrono",
  "regex",
