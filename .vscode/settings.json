@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "Alla",
+        "bestia",
+        "bestiadev",
+        "chrono",
+        "crev",
+        "Datelike",
+        "endregion",
+        "microdays",
+        "milli",
+        "milliday",
+        "millis",
+        "Nazdravlje",
+        "plantuml",
+        "Prost",
+        "rustlang",
+        "substack",
+        "varweek",
+        "varweeks",
+        "zdravje"
+    ],
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#553955" // Change this color!
+      },
+}

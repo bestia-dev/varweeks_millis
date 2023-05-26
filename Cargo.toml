@@ -1,0 +1,25 @@
+[package]
+name = "varweeks_millis"
+version = "1.0.13"
+authors = ["bestia.dev"]
+homepage = "https://bestia.dev"
+edition = "2018"
+description = "2021 new date time units and formats: varweeks and millis"
+repository = "https://github.com/bestia-dev/varweeks_millis"
+readme = "README.md"
+license = "MIT"
+keywords = ["date","time","varweeks","millis"]
+categories = ["date-and-time"]
+# publish as a crates.io library. Only this files.
+publish = true
+include = [
+    "Cargo.toml",
+    "LICENSE",
+    "README.md",
+    "src/*",
+]
+
+[dependencies]
+unwrap = "1.2.1"
+chrono = "0.4.19"
+regex = "1.4.3"
