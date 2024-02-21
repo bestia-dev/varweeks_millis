@@ -9,8 +9,8 @@
 
 [//]: # (auto_cargo_toml_to_md end)
 
-![status](https://img.shields.io/badge/maintained-green) 
-![status](https://img.shields.io/badge/ready_for_use-green) 
+ ![maintained](https://img.shields.io/badge/maintained-green)
+ ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
 
 [//]: # (auto_lines_of_code start)
 [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-181-green.svg)](https://github.com/bestia-dev/varweeks_millis/)
@@ -21,13 +21,13 @@
 
 [//]: # (auto_lines_of_code end)
 
-[![crates.io](https://img.shields.io/crates/v/varweeks_millis.svg)](https://crates.io/crates/varweeks_millis)
-[![Documentation](https://docs.rs/varweeks_millis/badge.svg)](https://docs.rs/varweeks_millis/)
-[![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/varweeks_millis.svg)](https://web.crev.dev/rust-reviews/crate/varweeks_millis/)
-[![RustActions](https://github.com/bestia-dev/varweeks_millis/workflows/rust/badge.svg)](https://github.com/bestia-dev/varweeks_millis/)
-[![latest doc](https://img.shields.io/badge/latest_docs-GitHub-orange.svg)](https://bestia-dev.github.io/varweeks_millis/varweeks_millis/index.html)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/varweeks_millis/blob/master/LICENSE)
-![Hits](https://bestia.dev/webpage_hit_counter/get_svg_image/763950777.svg)
+ [![crates.io](https://img.shields.io/crates/v/varweeks_millis.svg)](https://crates.io/crates/varweeks_millis)
+ [![Documentation](https://docs.rs/varweeks_millis/badge.svg)](https://docs.rs/varweeks_millis/)
+ [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/varweeks_millis.svg)](https://web.crev.dev/rust-reviews/crate/varweeks_millis/)
+ [![RustActions](https://github.com/bestia-dev/varweeks_millis/workflows/rust/badge.svg)](https://github.com/bestia-dev/varweeks_millis/)
+ [![latest doc](https://img.shields.io/badge/latest_docs-GitHub-orange.svg)](https://bestia-dev.github.io/varweeks_millis/varweeks_millis/index.html)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/varweeks_millis/blob/master/LICENSE)
+ ![varweeks_millis](https://bestia.dev/webpage_hit_counter/get_svg_image/763950777.svg)
 
 Hashtags: #rustlang #tutorial #datetime  
 My projects on Github are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
