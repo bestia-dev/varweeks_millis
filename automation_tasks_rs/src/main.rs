@@ -76,7 +76,7 @@ fn print_help() {
     {YELLOW}Use a space before the command to avoid saving the secret token in bash history.){RESET}
 {GREEN} cargo login TOKEN{RESET}
    
-    {YELLOW}© 2024 bestia.dev  MIT License github.com/bestia-dev/cargo-auto{RESET}
+    {YELLOW}© 2024 bestia.dev  MIT License github.com/automation-tasks-rs/cargo-auto{RESET}
 "#
     );
     print_examples_cmd();
