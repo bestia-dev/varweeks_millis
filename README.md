@@ -24,7 +24,7 @@
  [![crates.io](https://img.shields.io/crates/v/varweeks_millis.svg)](https://crates.io/crates/varweeks_millis)
  [![Documentation](https://docs.rs/varweeks_millis/badge.svg)](https://docs.rs/varweeks_millis/)
  [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/varweeks_millis.svg)](https://web.crev.dev/rust-reviews/crate/varweeks_millis/)
- [![RustActions](https://github.com/bestia-dev/varweeks_millis/workflows/rust/badge.svg)](https://github.com/bestia-dev/varweeks_millis/)
+ [![rust_fmt_auto_build_tests](https://github.com/bestia-dev/varweeks_millis/workflows/rust/badge.svg)](https://github.com/bestia-dev/varweeks_millis/)
  [![latest doc](https://img.shields.io/badge/latest_docs-GitHub-orange.svg)](https://bestia-dev.github.io/varweeks_millis/varweeks_millis/index.html)
  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/varweeks_millis/blob/master/LICENSE)
  ![varweeks_millis](https://bestia.dev/webpage_hit_counter/get_svg_image/763950777.svg)
